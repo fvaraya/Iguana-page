@@ -37,7 +37,7 @@ html{
     background-size: cover;
     height: 348px;
     margin: auto;
-    
+       
    
 }
 
@@ -76,9 +76,9 @@ p {
 .features{
     text-align: center;
     background-color: #1e1a13;
-    height: 348px;
+    height: 270px;
     color: white;
-    font-size: 40px;
+    font-size: 34px;
     padding-top: 25px;
 }
 
@@ -126,8 +126,8 @@ p {
     margin: 0rem 0;
     background-color: #1E1A13;
     color: #FFFFFF;
-    font-size: 1.5rem;
-    font-weight: 300;
+    font-size: 1rem;
+    font-weight: 100;
 }
 
 .footer a{
